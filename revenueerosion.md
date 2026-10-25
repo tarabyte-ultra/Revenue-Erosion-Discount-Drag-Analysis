@@ -81,7 +81,7 @@ Sales, Discounts, Refunds, Inventory and COGS were consistent from month to mont
 | **Net Operating Income (NOI)** | `(Gross Profit - Total Operating Expenses)` | Operational yield |
 
 ---
-![alt text](<excel p&lCN.png>)
+![alt text](</resources/excel p&lCN.png>)
 ---
 ---
 
@@ -110,7 +110,7 @@ ORDER BY discount_drag DESC;
 ```
 ---
 
-![alt text](<sql (1)C.png>)
+![alt text](</resources/sql (1)C.png>)
 
 ---
 ---
@@ -151,20 +151,20 @@ What was the true financial impact of the March Promotion?**
 
 ---
 
-![alt text](slidedeck1C.jpg)
+![alt text](/resources/slidedeck1C.jpg)
 ---
 
-![alt text](<slidedeck12 (1)C.png>)
+![alt text](</resources/slidedeck12 (1)C.png>)
 ---
-![alt text](<slidedeck123 (1)C.png>)
+![alt text](</resources/slidedeck123 (1)C.png>)
 ---
-![alt text](<slidedeck1234 (1)C.png>)
+![alt text](</resources/slidedeck1234 (1)C.png>)
 ---
-![alt text](<slidedeck12345 (1)C.png>)
+![alt text](</resources/slidedeck12345 (1)C.png>)
 ---
-![alt text](<slidedeck123456 (1)C.png>)
+![alt text](</resources/slidedeck123456 (1)C.png>)
 ---
-![alt text](<slidedeck1234567 (1)C.png>)
+![alt text](</resources/slidedeck1234567 (1)C.png>)
 ---
 ---
 ## 📂 **Repository Structure**
